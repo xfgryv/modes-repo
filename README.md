@@ -1,0 +1,1 @@
+- This is basic web page which only do dark <-> light
